@@ -1,0 +1,20 @@
+Package: bronzeage
+Type: Package
+Title: bronzeage: Now with less stone!
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Oliver", "Simmons",
+      email = "oliver.simmons22@imperial.ac.uk",
+      role = c("aut", "cre")
+    )
+  )
+Description: Wait is that a sea-person?
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: cowsay
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
