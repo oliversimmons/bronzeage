@@ -6,7 +6,7 @@
 <!-- badges: end -->
 
 
-The goal of bronzeage is to ...
+Now with less stone!
 
 ## Installation
 
